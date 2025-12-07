@@ -34,7 +34,7 @@ ${KAM_MODULE_DESCRIPTION}
 3. Reboot your device
 
 ## Changelog
-See [CHANGELOG.md](https://github.com/\${GITHUB_REPOSITORY}/blob/main/CHANGELOG.md) for detailed changes.
+See [CHANGELOG.md](https://github.com/LIghtJUNction/asl/blob/main/CHANGELOG.md) for detailed changes.
 
 ---
 Built with [Kam](https://github.com/MemDeco-WG/Kam)
