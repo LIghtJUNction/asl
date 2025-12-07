@@ -1,8 +1,8 @@
 [prop]
 id = "asl"
 name = "AndroidSubsystem4GNU/Linux"
-version = "1.2.5"
-versionCode = 1765098845834
+version = "1.2.6"
+versionCode = 1765100671141
 author = "Moe-hacker & Lin1328 & LIghtJUNction"
 description = 'Click the "Execute" button to enable or disable prompts.'
 updateJson = "https://raw.githubusercontent.com/LIghtJUNction/asl/main/update.json"
@@ -27,9 +27,7 @@ keywords = [
     "zsh",
     "template",
 ]
-maintainers = [
-    "LIghtJUNction",
-]
+maintainers = ["LIghtJUNction"]
 repository = "https://github.com/LIghtJUNction/asl"
 documentation = "https://github.com/LIghtJUNction/asl#readme"
 issues = "https://github.com/LIghtJUNction/asl/issues"
