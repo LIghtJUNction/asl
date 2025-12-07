@@ -1,5 +1,8 @@
 # asl — AndroidSubsystem4GNU/Linux
-**Forked from**: https://github.com/RuriOSS/asl  
+**Forked from**: 
+
+
+https://github.com/RuriOSS/asl  
 **Special thanks** to RuriOSS for the original project and upstream work. / 特别感谢 RuriOSS 对原始项目及贡献。
 
 简介
