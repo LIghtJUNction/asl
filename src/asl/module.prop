@@ -1,0 +1,7 @@
+id=asl
+name=AndroidSubsystem4GNU/Linux
+version=1.2.5
+versionCode=1765098845834
+author=Moe-hacker & Lin1328 & LIghtJUNction
+description=Click the "Execute" button to enable or disable prompts.
+updateJson=https://raw.githubusercontent.com/Moe-hacker/asl/main/update.json

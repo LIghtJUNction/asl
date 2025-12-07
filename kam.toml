@@ -1,0 +1,100 @@
+[prop]
+id = "asl"
+name = "AndroidSubsystem4GNU/Linux"
+version = "1.2.5"
+versionCode = 1765098845834
+author = "Moe-hacker & Lin1328 & LIghtJUNction"
+description = 'Click the "Execute" button to enable or disable prompts.'
+updateJson = "https://raw.githubusercontent.com/Moe-hacker/asl/main/update.json"
+
+[mmrl.repo]
+license = "MIT"
+license_file = "LICENSE"
+homepage = "https://github.com/Moe-hacker/asl"
+readme = "https://github.com/Moe-hacker/asl/blob/main/README.md"
+readme_file = "README.md"
+changelog = "https://github.com/Moe-hacker/asl/blob/main/CHANGELOG.md"
+changelog_file = "CHANGELOG.md"
+screenshots = []
+categories = ["tools"]
+keywords = [
+    "kam",
+    "module",
+    "android",
+    "android-subsystem",
+    "linux-subsystem",
+    "rurima",
+    "zsh",
+    "template",
+]
+maintainers = [
+    "Moe-hacker",
+    "Lin1328",
+    "LIghtJUNction",
+]
+repository = "https://github.com/Moe-hacker/asl"
+documentation = "https://github.com/Moe-hacker/asl#readme"
+issues = "https://github.com/Moe-hacker/asl/issues"
+funding = "https://github.com/sponsors/Moe-hacker"
+support = "https://github.com/Moe-hacker/asl/issues"
+donate = ""
+cover = ""
+icon = "icon.png"
+devices = []
+arch = ["arm64-v8a"]
+require = []
+antifeatures = []
+max_num = 0
+min_api = 21
+max_api = 35
+verified = false
+features = [
+    "linux-subsystem",
+    "module-template",
+    "customization",
+    "rurima",
+]
+
+[mmrl.repo.note]
+title = ""
+message = ""
+
+[mmrl.repo.manager.magisk]
+devices = []
+arch = ["arm64-v8a"]
+require = []
+
+[mmrl.repo.manager.kernelsu]
+devices = []
+arch = ["arm64-v8a"]
+require = []
+
+[mmrl.repo.manager.apatch]
+devices = []
+arch = []
+require = []
+
+[mmrl.repo.options.archive]
+compression = ""
+
+[kam]
+min_api = 21
+max_api = 35
+supported_arch = ["arm64-v8a"]
+conflicts = []
+module_type = "kam"
+
+[kam.build]
+target_dir = "dist"
+output_file = "{{id}}"
+hooks_dir = "hooks"
+
+[kam.tmpl.variables.repository]
+var_type = "string"
+required = false
+default = ""
+
+[kam.workspace]
+members = ["."]
+
+[tool]
