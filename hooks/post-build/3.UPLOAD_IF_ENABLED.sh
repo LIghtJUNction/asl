@@ -26,7 +26,7 @@ RELEASE_NOTES=$(cat <<EOF
 ${KAM_MODULE_DESCRIPTION}
 
 ## Download
-- [${KAM_MODULE_ID}.zip](https://github.com/\${GITHUB_REPOSITORY}/releases/download/${KAM_MODULE_VERSION}/${KAM_MODULE_ID}.zip)
+- [${KAM_MODULE_ID}.zip](https://github.com/LIghtJUNction/asl/releases/download/${KAM_MODULE_VERSION}/${KAM_MODULE_ID}.zip)
 
 ## Installation
 1. Download the module ZIP file
