@@ -45,5 +45,8 @@ gh release create "$KAM_MODULE_VERSION" \
     --title "${KAM_MODULE_NAME} v${KAM_MODULE_VERSION}" \
     --notes "$RELEASE_NOTES" \
     "$KAM_DIST_DIR/*"
+git add .
+git commit -m "Upload ${KAM_MODULE_NAME} v${KAM_MODULE_VERSION}"
+git push
 
 echo "Upload complete"
