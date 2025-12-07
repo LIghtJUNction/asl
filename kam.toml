@@ -1,8 +1,8 @@
 [prop]
 id = "asl"
 name = "AndroidSubsystem4GNU/Linux"
-version = "1.2.10"
-versionCode = 1765108212495
+version = "1.2.11"
+versionCode = 1765118820287
 author = "Moe-hacker & Lin1328 & LIghtJUNction"
 description = 'Click the "Execute" button to enable or disable prompts.'
 updateJson = "https://raw.githubusercontent.com/LIghtJUNction/asl/main/update.json"
