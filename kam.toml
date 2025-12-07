@@ -5,15 +5,15 @@ version = "1.2.5"
 versionCode = 1765098845834
 author = "Moe-hacker & Lin1328 & LIghtJUNction"
 description = 'Click the "Execute" button to enable or disable prompts.'
-updateJson = "https://raw.githubusercontent.com/Moe-hacker/asl/main/update.json"
+updateJson = "https://raw.githubusercontent.com/LIghtJUNction/asl/main/update.json"
 
 [mmrl.repo]
 license = "MIT"
 license_file = "LICENSE"
-homepage = "https://github.com/Moe-hacker/asl"
-readme = "https://github.com/Moe-hacker/asl/blob/main/README.md"
+homepage = "https://github.com/LIghtJUNction/asl"
+readme = "https://github.com/LIghtJUNction/asl/blob/main/README.md"
 readme_file = "README.md"
-changelog = "https://github.com/Moe-hacker/asl/blob/main/CHANGELOG.md"
+changelog = "https://github.com/LIghtJUNction/asl/blob/main/CHANGELOG.md"
 changelog_file = "CHANGELOG.md"
 screenshots = []
 categories = ["tools"]
@@ -28,15 +28,13 @@ keywords = [
     "template",
 ]
 maintainers = [
-    "Moe-hacker",
-    "Lin1328",
     "LIghtJUNction",
 ]
-repository = "https://github.com/Moe-hacker/asl"
-documentation = "https://github.com/Moe-hacker/asl#readme"
-issues = "https://github.com/Moe-hacker/asl/issues"
-funding = "https://github.com/sponsors/Moe-hacker"
-support = "https://github.com/Moe-hacker/asl/issues"
+repository = "https://github.com/LIghtJUNction/asl"
+documentation = "https://github.com/LIghtJUNction/asl#readme"
+issues = "https://github.com/LIghtJUNction/asl/issues"
+funding = "https://github.com/sponsors/LIghtJUNction"
+support = "https://github.com/LIghtJUNction/asl/issues"
 donate = ""
 cover = ""
 icon = "icon.png"
