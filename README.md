@@ -93,12 +93,14 @@ kam build
 ---------------------------
 - 无法进入 rurima：  
   - 确保模块正确安装并启用、终端已获得 `su`；  
-  - 检查 `system/xbin/rurima` 是否存在且权限为 `700`；  
+  - 检查 `system/bin/rurima` 是否存在且权限为 `700`；  
   - 如使用 Termux，确保 Termux 安装及 PATH 环境正常。
 
 - 运行命令失败 / 权限问题：  
   - 检查 `src/asl/customize.sh` 所设置的 `set_perm` / `set_perm_recursive` 权限；  
-  - 观察 `logs/` 与模块输出日志以定位问题。
+ 
+- 请以root身份执行rurima r xx
+
 
 反馈与支持（Support）
 --------------------
