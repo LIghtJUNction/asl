@@ -1,7 +1,7 @@
 id=asl
 name=AndroidSubsystem4GNU/Linux
-version=1.2.12
-versionCode=1765120261872
+version=1.2.13
+versionCode=1765221208603
 author=Moe-hacker & Lin1328 & LIghtJUNction
 description=Click the "Execute" button to enable or disable prompts.
 updateJson=https://raw.githubusercontent.com/LIghtJUNction/asl/main/update.json
