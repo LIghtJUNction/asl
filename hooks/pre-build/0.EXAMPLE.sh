@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 # Example pre-build hook script
 # This script runs before the build process starts.
 
@@ -34,12 +34,5 @@ if [ "${KAM_DEBUG:-}" = "1" ]; then
     fi
     export PS1="[KAM_DEBUG:${KAM_MODULE_ID}] $PS1"
 fi
-
-# check
-
-which --version 
-which python
-which cargo
-which gh
 
 # Add your pre-build logic here (e.g., downloading assets, checking environment)
