@@ -1,0 +1,4 @@
+[submodule "rurima"]
+	path = rurima
+	url = https://github.com/RuriOSS/rurima.git
+	branch = main
